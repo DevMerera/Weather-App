@@ -275,7 +275,7 @@ class _WeatherScreenState extends State<WeatherScreen> {
                                   color: AppColors.textPrimary, size: 20),
                               SizedBox(width: 8),
                               Text(
-                                'Hourly Forecast',
+                                'Hourly history',
                                 style: TextStyle(
                                   color: AppColors.textPrimary,
                                   fontSize: 18,
